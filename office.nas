@@ -1,4 +1,5 @@
 #startpoint
+freeze
 msg &g...
 delay 3000
 tempblock 64 64 63 0
@@ -13,4 +14,5 @@ tempblock 65 64 63 0
 tempblock 65 65 63 0
 tempblock 65 66 63 0
 delay 500
+unfreeze
 quit
