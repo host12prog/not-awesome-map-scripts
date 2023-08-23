@@ -1,0 +1,23 @@
+#journal1
+msg %fThere's a document here.
+msg    %bTEST SUBJECT #0049 - DR. FYODR [REDACTED]
+msg    %bThe test subject appears to have [REDACTED], and experiencing [REDACTED]. 50mg [REDACTED] recommended for test subject.
+msg    %bTest subject is currently hibernating, in a [REDACTED] state.
+msg %fThe rest appears to be have been hastily scribbled out.
+quit
+
+#journal2
+msg %fThere's a note here.
+msg    %bNOTE FROM DR. FYODR [REDACTED]
+msg    %1. b[REDACTED] is currently out of stock, please avoid using [REDACTED] as a substitute.
+msg    %b2. Mixing [REDACTED] with [REDACTED] may cause violent [REDACTED], and may result in certain death.
+msg    %b3. [EXPUNGED]
+quit
+
+#journal3
+msg %fThere's a note here.
+msg
+msg    %bNOTE FROM GENERAL SURGEON [EXPUNGED]
+msg    %bCare must be taken during operations involving [REDACTED], which may render test subjects unviable. Before operating, [EXPUNGED]
+msg    %bAfter the operation, staff are to give the test subject 25mg [REDACTED] and 50mg [REDACTED]. Failure to do so may result in [EXPUNGED] and termination of contract.
+quit
