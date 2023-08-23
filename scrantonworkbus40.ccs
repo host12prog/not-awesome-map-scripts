@@ -9,7 +9,7 @@ quit
 #journal2
 msg %fThere's a note here.
 msg    %bNOTE FROM DR. FYODR [REDACTED]
-msg    %1. b[REDACTED] is currently out of stock, please avoid using [REDACTED] as a substitute.
+msg    %b1. b[REDACTED] is currently out of stock, please avoid using [REDACTED] as a substitute.
 msg    %b2. Mixing [REDACTED] with [REDACTED] may cause violent [REDACTED], and may result in certain death.
 msg    %b3. [EXPUNGED]
 quit
